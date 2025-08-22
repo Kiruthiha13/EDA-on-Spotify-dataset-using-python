@@ -7,7 +7,9 @@ This end-to-end exploratory data analysis (EDA) project demonstrates how to tran
 ## ℹ️ Data Information
 
 **Source:** 
+
 [Spotify Tracks](https://www.kaggle.com/datasets/lehaknarnauli/spotify-datasets?select=tracks.csv)
+
 [Spotify Features](https://www.kaggle.com/datasets/zaheenhamidani/ultimate-spotify-tracks-db)
 
 ## 🧮 Exploratory Analysis of Spotify Music Trends
